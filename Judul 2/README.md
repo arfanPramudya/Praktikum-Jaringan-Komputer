@@ -6,6 +6,12 @@ Dokumentasi ini mencatat penyelesaian untuk tugas praktikum **Lab 10.4.4 - Build
 
 Tujuan utama dari lab ini adalah untuk mengkonfigurasi topologi jaringan yang terdiri dari satu router (R1), satu switch (S1), dan dua PC (PC-A & PC-B). Fokus utamanya adalah mengkonfigurasi router agar dapat me-routing paket antara dua subnet yang berbeda, sehingga **PC-A** dan **PC-B** dapat saling berkomunikasi.
 
+### 🎥 Video Konfigurasi Lengkap di YouTube:
+
+**[Klik di sini untuk menonton video tutorial (YouTube)](https://youtu.be/9NV8Tqb-PUM)**
+
+---
+
 ## 🗺️ Skenario & Topologi
 
 Berdasarkan modul praktikum, topologi yang digunakan memisahkan PC-A dan PC-B ke dalam dua jaringan (subnet) yang berbeda:
